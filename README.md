@@ -1,5 +1,5 @@
-# testrepo
-Some kind of edit
-Third commit
-Fourth commit (on another branch)
-Fifth commit
+# TestRepo
+This repo is/was just for getting used to GitHub's functionality <br />
+Pushing, pulling, committing<br />
+Branching, Hooks, .etc<br />
+Finally, for testing IDE integration before I actually start relying on this for work...
